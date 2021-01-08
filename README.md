@@ -4,3 +4,11 @@
 But from one mindless click after another, did you know what you actually watched, and how you spent your time? 
 
 This project is a tool that maps out the content that you consume on Youtube in 2D, and clusters together similar videos so that it would be clear to see which types of videos you watch the most. It is created in the hopes of making people more concious about how they spent their time online.
+
+## Todo:
+- [x] Fetch youtube video comments
+- [x] Vectorize videos
+- [x] PCA + T-SNE visualization using matplotlib
+- [ ] Automatically parse google takeouts
+- [ ] Command-line interface
+- [ ] User friendly electron app
